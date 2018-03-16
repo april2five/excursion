@@ -1,3 +1,45 @@
 body{
-  
+  font-family: Verdana;
+  color: white;
+  background-color: black;
+  margin: 0em 1.5em 0em 1.5em;
+}
+
+.main{
+  text-align: center;
+}
+
+.footer{
+  text-align: right;
+}
+
+img{
+  margin-top:30px;
+}
+
+h1{
+  font-size: 4em;
+}
+
+h2{
+  font-size: 3em;
+}
+
+p.bigp{
+  font-size: 1.5em;
+  color: Gray;
+}
+
+.download{
+  font-size: 1.1em;
+  color: lightGreen;
+  text-decoration: underline;
+}
+
+.imgcover{
+  background-image: url("../images/camp.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 400px;
+  width: auto;
 }
